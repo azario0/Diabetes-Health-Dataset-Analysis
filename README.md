@@ -18,8 +18,8 @@ You can install these libraries using pip:
 
 ```bash
 pip install pandas torch scikit-learn seaborn matplotlib ipywidgets ipython
-
-Notebook Overview
+```
+## Notebook Overview
 
 The notebook follows these steps:
 
